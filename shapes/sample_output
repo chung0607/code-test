@@ -1,0 +1,33 @@
+List (1):
+I'm a Rectangle with base 4.898 and height 2.964
+I'm a Rectangle with base 6.242 and height 6.397
+I'm a Square with side 3.174
+I'm a Square with side 1.271
+I'm a Square with side 3.138
+I'm a Circle with radius 3.119
+I'm a Circle with radius 3.219
+I'm a Circle with radius 5.220
+I'm a Rectangle with base 6.991 and height 3.184
+I'm a Rectangle with base 6.822 and height 2.530
+List (2):
+I'm a Circle with radius 5.220 and area 85.560
+I'm a Rectangle with base 6.242 and height 6.397 and area 39.930
+I'm a Circle with radius 3.219 and area 32.537
+I'm a Circle with radius 3.119 and area 30.546
+I'm a Rectangle with base 6.991 and height 3.184 and area 22.259
+I'm a Rectangle with base 6.822 and height 2.530 and area 17.260
+I'm a Rectangle with base 4.898 and height 2.964 and area 14.518
+I'm a Square with side 3.174 and area 10.074
+I'm a Square with side 3.138 and area 9.847
+I'm a Square with side 1.271 and area 1.615
+List (3):
+I'm a Rectangle 10.104 units away from the origin
+I'm a Rectangle 8.014 units away from the origin
+I'm a Circle 7.015 units away from the origin
+I'm a Circle 3.935 units away from the origin
+I'm a Square 3.662 units away from the origin
+I'm a Rectangle 3.114 units away from the origin
+I'm a Square 2.928 units away from the origin
+I'm a Circle 1.125 units away from the origin
+I'm a Rectangle containing the origin
+I'm a Square containing the origin
